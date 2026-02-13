@@ -215,3 +215,4 @@ for i, (pred_row, r) in enumerate(zip(pred_df.itertuples(index=False), table_row
 
 st.markdown("---")
 st.caption("예측판매수량·예측판매금액 괄호: 직전주 대비 변동 (▲ 상승 파랑, ▼ 하락 빨강)")
+
